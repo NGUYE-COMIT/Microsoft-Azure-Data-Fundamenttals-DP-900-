@@ -1,2 +1,6 @@
 # Microsoft-Azure-Data-Fundamenttals-DP-900-
-Chuyên ngành này bao gồm các khái niệm dữ liệu cốt lõi, dữ liệu quan hệ và không quan hệ trong Azure và phân tích dữ liệu hiện đại. Nó chuẩn bị cho bạn kỳ thi chứng chỉ DP-900 với các kỹ năng thực hành
+Hiểu biết về cơ sở dữ liệu khái niệm : data
+Làm việc với hệ thống cơ sở dữ liệu trên Azure : Azure SQL
+Tìm hiểu cơ sở dữ liệu NoSQL :
+Khám phá kho dữ liệu và phân tích : Azure
+Hiểu cách xử lý và trực quan hóa dữ liệu
